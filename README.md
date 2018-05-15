@@ -10,7 +10,7 @@ Another cool feature here is called **Awaymode**. I was annoyed when I accidenta
 
 ## Downloads
 
-> Releases are coming soon.
+See [releases](https://github.com/diversenok/PowerStatusControl/releases) page.
 
 This program should work fine starting from Windows Vista.
 
